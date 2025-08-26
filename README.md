@@ -16,7 +16,15 @@ R (readxl, dplyr, ggplot2) in RStudio.
 ## Findings
 - Casual riders ride longer but less often.  
 - Members ride shorter trips but much more often.  
-- Members ride more on weekdays, casuals more on weekends.  
+- Members ride more on weekdays, casuals more on weekends.
+
+- ## Visuals
+  
+**Average ride length**
+![Average ride length](Avg_ride_len.png)
+
+**Rides by weekday**
+![Rides by weekday](Rides_per_week.png)
 
 ## Recommendations
 1. Weekend-focused membership deals.  
